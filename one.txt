@@ -1,1 +1,4 @@
+
+f gets
+hello
 hello world
